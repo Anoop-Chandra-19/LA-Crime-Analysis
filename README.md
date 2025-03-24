@@ -53,7 +53,7 @@ This project is built and tested using:
 
 ---
 
-### ✅ Step 4: Upload All 11 Dataset Files
+### Step 4: Upload All 11 Dataset Files
 
 1. Go to **Data** on the sidebar → **Add Data**
 2. Click **Upload File**
