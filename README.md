@@ -105,10 +105,3 @@ This project is built and tested using:
 ├── README.md                         # This file
 └── /data                             # Upload 11 CSV files here
 ```
-
----
-
-## 👤 Author
-
-*Your Name*  
-M.S. in Applied Machine Intelligence, Northeastern University
