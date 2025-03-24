@@ -93,6 +93,5 @@ This project is built and tested using:
 
 ```
 ├── LA Crime Analysis Final.ipynb     # Main notebook
-├── README.md                         # This file
-└── /data                             # 11 CSV files here
+└──  README.md                        # This file
 ```
