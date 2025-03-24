@@ -57,17 +57,8 @@ This project is built and tested using:
 
 1. Go to **Data** on the sidebar → **Add Data**
 2. Click **Upload File**
-3. Select **all 11 CSV files** (hold Shift/Ctrl to select multiple)
-4. After uploading, Databricks will show the file paths, typically like this:
-   ```
-   /dbfs/FileStore/tables/crime_data_part1.csv
-   /dbfs/FileStore/tables/crime_data_part2.csv
-   ...
-   /dbfs/FileStore/tables/crime_data_part11.csv
-   ```
-5. Use these paths in your notebook when merging the data
-
-📌 *Note: The notebook already handles merging the 11 parts into one dataset.*
+3. Once uploaded, Databricks will show the path (e.g., /dbfs/FileStore/tables/filename.csv)
+4. Use that path in your notebook wherever the dataset is being read
 
 ---
 
